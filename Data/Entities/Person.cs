@@ -5,8 +5,7 @@ public class Class1
 	public Class1()
 	{
 # test
-# test
-# test
 # test1
+
     }
 }
